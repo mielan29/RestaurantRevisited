@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestaurantRevisited</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Your_current_order">your_current_order</string>
+    <string name="Current_Order">Current_Order</string>
+</resources>

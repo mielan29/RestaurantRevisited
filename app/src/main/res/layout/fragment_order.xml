@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.milan.restaurantrevisited.OrderFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="481dp"
+        android:text="@string/Your_current_order" >
+
+    </TextView>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="421dp"
+        android:id="@+id/Order">
+
+    </ListView>
+
+</FrameLayout>
